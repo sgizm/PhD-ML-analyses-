@@ -12,5 +12,8 @@ Following the procedure:
    #### c) From the importance definitions we can find the eigenvectors of the representation matrix multiplied by its transpose. 
    #### d) The most important sentences will have largest coordinates in the eigenvectors.
 
-### 3) association rule learning with apriori algotihm, following the procedure: 
+### 3) association rule learning with apriori algotihm in R, following the procedure: 
 Given a set of baskets (or transactions) T:
+
+![arl procedure](https://user-images.githubusercontent.com/3594049/53423683-789a0100-39ea-11e9-8c79-bf74fb84b635.png)
+
