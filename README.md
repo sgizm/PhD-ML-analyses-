@@ -1,4 +1,4 @@
-# PhD-ML-analyses-
+# PhD-ML-analyses
 ## Various ML analyses used during PhD studies. Including data classificaiton, regression, text mining
 
 ## Includes both supervised and unsupervised projects, including 
